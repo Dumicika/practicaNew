@@ -38,6 +38,10 @@
                                 <div class="searhc-icon"><i class="fa-solid fa-magnifying-glass text-white icons"></i></div>
                             </form>
                         </div>
+                        <div class="navbar-nav logaut z-3" >
+                          <a href="/login" class="nav-link active log-in"><i class="fa-solid fa-right-to-bracket mr-1"></i>Log In</a>
+                          <a href="/register" class="nav-link active register"><i class="fa-solid fa-address-card"></i>Register</a>
+                        </div> 
                 </div>
             </div>
         </nav>
