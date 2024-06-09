@@ -49,10 +49,22 @@
 
     @yield('content')
 
-    <footer class="mt-5 p-5 text-white d-flex align-center justify-content-center bg-card">
-        <p class="my-5">
-            &copy; {{ \Carbon\Carbon::now()->year }} Toate drepturile rezervate
+    <footer mt-5 p-5 text-white d-flex align-center justify-content-center bg-card>
+        <div class="footer">        
+        <div class="row">
+        <ul>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Games</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">Terms & Conditions</a></li>
+        <li><a href="#">Contact Us</a></li>
+        <li><a href="#">Comunity</a></li>
+        </ul>
+        </div>
+        <p class="my-5 text-white">
+            LvlUp Copyright © 2024 LvlUp - All rights reserved || Elaborat de Marius
         </p>
-    </footer>
+        </div>
+        </footer>
 </body>
 </html>
