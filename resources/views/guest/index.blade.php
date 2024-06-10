@@ -72,7 +72,7 @@
 </div>
 <!-- End Header -->
 <!-- Auctions -->
-<div class="title-2 container"><h1>Discover the Most Popular Games</h1></div> <!--titlu-->
+<div class="container title d-flex flex-column align-items-center flex-lg-row my-5 text-white"><h2>Discover the Most Popular Games</h2></div> <!--titlu-->
 <div class="swiper auctionsSwiper container ">
         <div class="swiper-wrapper">
             <!-- Card 1 -->
@@ -118,8 +118,8 @@
                     <div class="card-body">
                         <div class="d-flex author flex-row justify-content-between align-items-center">
                             <div class="d-flex flex-column justify-content-center">
-                                <h5 class="text-white mb-0">Metaverse</h5>
-                                <p class="text-secondary mb-0"><span class="text-white">John Doe</span></p>
+                                <h5 class="text-white mb-0">Soccer Random</h5>
+                                <p class="text-secondary mb-0"><span class="text-white">Sports</span></p>
                             </div>
                             <div class="icons d-flex flex-column col-2 text-right text-center">
                                 <i class="fa-regular fa-heart text-white "></i>
@@ -154,8 +154,8 @@
                     <div class="card-body">
                         <div class="d-flex author flex-row justify-content-between align-items-center">
                             <div class="d-flex flex-column justify-content-center">
-                                <h5 class="text-white mb-0">Metaverse</h5>
-                                <p class="text-secondary mb-0"><span class="text-white">John Doe</span></p>
+                                <h5 class="text-white mb-0">Stormgate</h5>
+                                <p class="text-secondary mb-0"><span class="text-white">Strategy</span></p>
                             </div>
                             <div class="icons d-flex flex-column col-2 text-center">
                                 <i class="fa-regular fa-heart text-white"></i>
@@ -172,8 +172,8 @@
                     <div class="card-body">
                         <div class="d-flex author flex-row justify-content-between align-items-center">
                             <div class="d-flex flex-column justify-content-center">
-                                <h5 class="text-white mb-0">Metaverse</h5>
-                                <p class="text-secondary mb-0"><span class="text-white">John Doe</span></p>
+                                <h5 class="text-white mb-0">Dead Cells</h5>
+                                <p class="text-secondary mb-0"><span class="text-white">Action</span></p>
                             </div>
                             <div class="icons d-flex flex-column col-2 text-right text-center">
                                 <i class="fa-regular fa-heart text-white "></i>
@@ -198,12 +198,12 @@
                     <div class="card-body">
                         <div class="d-flex author flex-row justify-content-between align-items-center">
                             <div class="d-flex flex-column justify-content-center">
-                                <h5 class="text-white mb-0">Metaverse</h5>
-                                <p class="text-secondary mb-0"><span class="text-white">John Doe</span></p>
+                                <h5 class="text-white mb-0">God of War</h5>
+                                <p class="text-secondary mb-0"><span class="text-white">Action</span></p>
                             </div>
                             <div class="icons d-flex flex-column col-2 text-right text-center">
                                 <i class="fa-regular fa-heart text-white "></i>
-                                <span class="text-white">238</span>
+                                <span class="text-white">212</span>
                             </div>
                         </div>
                     </div>
@@ -234,12 +234,12 @@
                     <div class="card-body">
                         <div class="d-flex author flex-row justify-content-between align-items-center">
                             <div class="d-flex flex-column justify-content-center">
-                                <h5 class="text-white mb-0">Metaverse</h5>
-                                <p class="text-secondary mb-0"><span class="text-white">John Doe</span></p>
+                                <h5 class="text-white mb-0">XCOM 2</h5>
+                                <p class="text-secondary mb-0"><span class="text-white">Strategy</span></p>
                             </div>
                             <div class="icons d-flex flex-column col-2 text-right text-center">
                                 <i class="fa-regular fa-heart text-white "></i>
-                                <span class="text-white">238</span>
+                                <span class="text-white">276</span>
                             </div>
                         </div>
                     </div>
@@ -252,12 +252,12 @@
                     <div class="card-body">
                         <div class="d-flex author flex-row justify-content-between align-items-center">
                             <div class="d-flex flex-column justify-content-center">
-                                <h5 class="text-white mb-0">Metaverse</h5>
-                                <p class="text-secondary mb-0"><span class="text-white">John Doe</span></p>
+                                <h5 class="text-white mb-0">Cyberpunk 2077</h5>
+                                <p class="text-secondary mb-0"><span class="text-white">RPG</span></p>
                             </div>
 <div class="icons d-flex flex-column col-2 text-right text-center">
                                 <i class="fa-regular fa-heart text-white "></i>
-                                <span class="text-white">238</span>
+                                <span class="text-white">218</span>
                             </div>
                         </div>
                     </div>
@@ -270,12 +270,12 @@
                     <div class="card-body">
                         <div class="d-flex author flex-row justify-content-between align-items-center">
                             <div class="d-flex flex-column justify-content-center">
-                                <h5 class="text-white mb-0">Metaverse</h5>
-                                <p class="text-secondary mb-0"><span class="text-white">John Doe</span></p>
+                                <h5 class="text-white mb-0">Retro Bowl</h5>
+                                <p class="text-secondary mb-0"><span class="text-white">Sports</span></p>
                             </div>
                             <div class="icons d-flex flex-column col-2 text-right text-center">
                                 <i class="fa-regular fa-heart text-white "></i>
-                                <span class="text-white">238</span>
+                                <span class="text-white">190</span>
                             </div>
                         </div>
                     </div>
@@ -288,12 +288,12 @@
                     <div class="card-body">
                         <div class="d-flex author flex-row justify-content-between align-items-center">
                             <div class="d-flex flex-column justify-content-center">
-                                <h5 class="text-white mb-0">Metaverse</h5>
-                                <p class="text-secondary mb-0"><span class="text-white">John Doe</span></p>
+                                <h5 class="text-white mb-0">Penalty Shooters 2</h5>
+                                <p class="text-secondary mb-0"><span class="text-white">Sports</span></p>
                             </div>
                             <div class="icons d-flex flex-column col-2 text-right text-center">
                                 <i class="fa-regular fa-heart text-white "></i>
-                                <span class="text-white">238</span>
+                                <span class="text-white">198</span>
                             </div>
                         </div>
                     </div>
@@ -302,36 +302,17 @@
         </div>
         <div class="swiper-pagination"></div>
     </div>
+<!-- End Auctions -->
+<!-- Collections -->
     <div class="container title d-flex flex-column justify-content-between align-items-center flex-lg-row my-5">
         <h2 class="text-white text-center text-lg-start">Popular Collections</h2>
-        <a href="#" class="btn btn-bg-light text-white px-4 py-2 me-3">
+        <a href="#" class="btn text-white px-4 py-2 me-3 btn-ex">
             <i class="fa-solid fa-rocket"></i>
             Explore All
         </a>
     </div>
 </section>
 </div>
-<section class="contact">
-    <div class="container title d-flex flex-column justify-content-between align-items-center flex-lg-row my-5">
-        <h2 class="text-white text-center text-lg-start">Contact us</h2>
-    </div>
-    <div class="container text-white">
-        <form action="/action_page.php">
-          <label for="fname">Name</label>
-          <input type="text" id="fname" name="firstname" placeholder="Your name..">
-      
-          <label for="lname">Email</label>
-          <input type="text" id="lname" name="lastname" placeholder="Your email..">
-      
-          <label for="subject">Subject</label>
-          <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-      
-          <input type="submit" value="Submit">
-        </form>
-      </div>
-</section>
-<!-- End Auctions -->
-<!-- Collections -->
 <section class="collections my-5 py-5">
     <div class="container">
         <div class="row">
@@ -363,7 +344,24 @@
         </div>
     </div>
 </section>
-
-
 <!-- End Collections -->
+<section class="contact">
+    <div class="container title d-flex flex-column justify-content-between align-items-center flex-lg-row my-5">
+        <h2 class="text-white text-center text-lg-start">Contact us</h2>
+    </div>
+    <div class="container text-white">
+        <form action="/action_page.php">
+          <label for="fname">Name</label>
+          <input type="text" id="fname" name="firstname" placeholder="Your name..">
+      
+          <label for="lname">Email</label>
+          <input type="text" id="lname" name="lastname" placeholder="Your email..">
+      
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+      
+          <input type="submit" value="Submit">
+        </form>
+      </div>
+</section>
 @endsection
